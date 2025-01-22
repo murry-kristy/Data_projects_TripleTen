@@ -9,4 +9,4 @@ Technical projects completed during TripleTen Business Intelligence Analyst Boot
 | 3 | E-commerce Business Analysis | Created conversion funnel analyzing how effectively the website was converting product page views into purchases. |
 | 4 | SuperStore Operations Analysis | Analyzed the SuperStores's operations to increase its profitability to avoid bankruptcy utilizing Tableau. |
 | 5 | SuperStore Returns Analysis | Analyzed return rates and profit & loss metrics to identify root causes of rising product returns and provide strategies to reduce their volume through actionable visualizations utilizing Tableau. |
-| 6 | SuperStore Returns Analysis | Conducted a comprehensive customer segmentation analysis for a food delivery company, leveraging demographic and purchase behavior data to define customer profiles utilzing Tableau and Power Bi. |
+| 6 | Zomato Customer Segmentation Analysis | Conducted a comprehensive customer segmentation analysis for a food delivery company, leveraging demographic and purchase behavior data to define customer profiles utilzing Tableau and Power Bi. |
