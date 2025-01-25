@@ -11,6 +11,11 @@ The best investment opportunities were identified using advanced shreadsheet tec
 
 - Complete Project Analysis: <a href='https://docs.google.com/spreadsheets/d/1--PPzOhVLWLxQigG588t-GNHkS3y0m9VrWpYY8RQFvY/edit?usp=sharing'><u>here</u></a>
 
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Top%2010%20Listings%20Screenshot.png)
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Number%20of%20Bedrooms%20Screenshot.png)
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Ave%20Occupancy%20Per%20Day%20of%20Week%20Screenshot.png)
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Revenue%20Estimation%20Screenshot.png)
+
 ## Files
 - README.md
 - <a href='https://docs.google.com/spreadsheets/d/1--PPzOhVLWLxQigG588t-GNHkS3y0m9VrWpYY8RQFvY/edit?usp=sharing'><u>Vacation Rental Market Analysis</u></a>
