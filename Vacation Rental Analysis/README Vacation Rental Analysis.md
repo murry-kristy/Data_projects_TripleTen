@@ -22,7 +22,9 @@ The best investment opportunities were identified using advanced shreadsheet tec
 ## Files
 - README.md
 - <a href='https://docs.google.com/spreadsheets/d/1--PPzOhVLWLxQigG588t-GNHkS3y0m9VrWpYY8RQFvY/edit?usp=sharing'><u>Vacation Rental Market Analysis</u></a>
-- 
+- <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Project%20Requirements.md'><u>Requirements</u></a>
+- <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Project%20Rubric.png'><u>Project Rubric</u></a>
+- <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Analysis/Reviewer%20Comments.png'><u>Reviewer Comments</u></a>
 
 ## Table of Contents
 | Tab Title| Description | 
