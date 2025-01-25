@@ -3,10 +3,13 @@
 ## Project Overview
 Project analyzes available competitor information to investigate patterns for a rideshare company (Zuber) who's lauching in Chicago. The goal is understand passenger preferences and the impact of weather on ride frequency, using SQL. 
 
-- Complete Project Analysis:
+- Complete Project Analysis: <a href= 'https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zuber%20Rideshare%20Analysis/Zuber%20Rideshare%20Analysis.pdf'><u>Project Analysis.txt</u></a>
 
 ## Files
 - README.md
+- <a href= 'https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zuber%20Rideshare%20Analysis/Zuber%20Project%20Requirements.md'><u>Project Requirements.txt</u></a>
+- <a href= 'https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zuber%20Rideshare%20Analysis/Zuber%20Table%20Scheme.png'><u>Table Scheme.txt</u></a>
+- <a href= 'https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zuber%20Rideshare%20Analysis/Zuber%20Rideshare%20Analysis.pdf'><u>Project Analysis.txt</u></a>
 
 ## Table of Contents
 | Section Title | Description |
