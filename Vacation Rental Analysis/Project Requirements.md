@@ -1,4 +1,4 @@
-# Required Steps and Elements for a Completed Project (Sprint 1)
+# Project Requirements
 
 ## Data Cleaning and Preparation:
 -Freeze and Resize as appropriate
