@@ -17,7 +17,7 @@ Project analyzes available competitor information to investigate patterns for a 
 | ----------- |----------- |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
 | Process | A general outline of how this project formed from start to finish. |
-| DATA | Describes the source of data, included files, tables, and fields. |
+| Data | Describes the source of data, included files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 
