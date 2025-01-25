@@ -9,8 +9,12 @@ Project analyzes the short-term vacation rental market in Manhattan using Airbnb
 
 The best investment opportunities were identified using advanced shreadsheet techniques analyzing property types, occupancy rates, pricing trends, and delivering actionable insights to inform and shape their investment strategy.
 
+- Complete Project Analysis: <a href='https://docs.google.com/spreadsheets/d/1--PPzOhVLWLxQigG588t-GNHkS3y0m9VrWpYY8RQFvY/edit?usp=sharing'><u>here</u></a>
+
 ## Files
 - README.md
+- <a href='https://docs.google.com/spreadsheets/d/1--PPzOhVLWLxQigG588t-GNHkS3y0m9VrWpYY8RQFvY/edit?usp=sharing'><u>Vacation Rental Market Analysis</u></a>
+- 
 
 ## Table of Contents
 | Tab Title| Description | 
