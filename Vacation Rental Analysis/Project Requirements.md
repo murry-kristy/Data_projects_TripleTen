@@ -4,10 +4,10 @@
 - Freeze and Resize as appropriate
 - Handle missing values
 - Create new columns:
-    neighborhood_clean: Store cleaned neighborhood names.
-    bedrooms_clean: Store cleaned bedroom counts.
-    top_listing: Indicate whether a listing meets the criteria for a "top listing."
-    revenue_earned (in both listings and calendar sheets): Calculate revenue earned for each night.
+    * neighborhood_clean: Store cleaned neighborhood names.
+    * bedrooms_clean: Store cleaned bedroom counts.
+    * top_listing: Indicate whether a listing meets the criteria for a "top listing."
+    * revenue_earned (in both listings and calendar sheets): Calculate revenue earned for each night.
 
 ## Pivot table analysis:
 - Identify top 10 neighborhoods based on number_of_reviews_ltm.
