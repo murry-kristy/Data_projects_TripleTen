@@ -1,6 +1,6 @@
 # Project Requirements:
 
-___1: Profits & Losses__
+__1: Profits & Losses__
    - Identify the two biggest profit and loss centers using a visualization (pairs of dimensions).
    - Identify products to stop selling with a visualization.
    - Identify 3 product subcategories to focus on and stop selling.
