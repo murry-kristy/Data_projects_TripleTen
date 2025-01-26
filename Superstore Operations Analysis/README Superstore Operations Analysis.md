@@ -3,13 +3,23 @@
 ## Project Overview
 Project goal was to advise the company by evaluating the store's operations and implementing strategies to enhance profitability and prevent bankruptcy using Tableau visualizations.
 
-Image links
+__Sub-Category Profit Centers & Loss Makers Per Region Dashboard__
 
-- Complete Project Analysis (Tableau Public link):
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Operations%20Analysis/Sub-Category%20Profit%20Loss%20Per%20Region%20Dashboard.png)
+
+__Return Rate Dashboard__
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Operations%20Analysis/Return%20Rates%20Dashboard.png)
+
+__Advertising Spend Focus on States Worksheet__
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Operations%20Analysis/Advertising%20Spend.png)
+
+- Complete Project Analysis (Tableau Public link): <a href='https://public.tableau.com/views/KristyMurrySprint4TableauProject/Sub-CategoryProfitCentersLoss-MakersPerRegion?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>Tableau Public project link </u></a>
 
 ## Files
 - README.md
-- Raw Data: 
+- Raw Data: <a href='
 - Project Requirements:
 - Reviewer Comments: 
 - Project Rubric:
