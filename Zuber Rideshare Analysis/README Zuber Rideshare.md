@@ -16,8 +16,9 @@ Project analyzes available competitor information to investigate patterns for a 
 | Section Title | Description |
 | ----------- |----------- |
 | Description | Describes the final product's purpose, software, format, and included visuals. |
-| Process | A general outline of how this project formed from start to finish. |
 | Data | Describes the source of data, included files, tables, and fields. |
+| Table Scheme | Relationship between the tables in the Zuber dataset |
+| Process | A general outline of how this project formed from start to finish. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 
@@ -50,6 +51,8 @@ A database with info on taxi rides in Chicago provided by TripleTen:
     - `'description'`: a brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 ## Table Scheme:
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zuber%20Rideshare%20Analysis/Zuber%20Table%20Scheme.png)
 
 ## Process:
 1. Analyzed taxi rides by the company for specific dates, sorting by trip count.
