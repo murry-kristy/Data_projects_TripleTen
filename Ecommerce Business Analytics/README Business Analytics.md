@@ -5,10 +5,11 @@ An e-commerce cohort analysis, transforming raw transaction logs into meaningful
 
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Ecommerce%20Business%20Analytics/Ecommerce%20Table%20of%20Contents%20Screenshot.png)
 
-Conversion Funnel
+## Conversion Funnel
+
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Ecommerce%20Business%20Analytics/Ecommerce%20Conversion%20Funnel%20Screenshot.png)
 
-Retention Rates
+## Retention Rates
 
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Ecommerce%20Business%20Analytics/Ecommerce%20Retension%20Rates%20Screenshot.png)
 
