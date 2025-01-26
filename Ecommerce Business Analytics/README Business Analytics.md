@@ -4,7 +4,9 @@
 An e-commerce cohort analysis, transforming raw transaction logs into meaningful and actionable business insights. Conversion funnel was created to analyze how users interacted with the website (e.g., how effectively the website transformed product page views into purchases). Acquisition cohorts were built to track monthly metrics (retension rates) based on first purchase dates. 
 
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Ecommerce%20Business%20Analytics/Ecommerce%20Table%20of%20Contents%20Screenshot.png)
+
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Ecommerce%20Business%20Analytics/Ecommerce%20Conversion%20Funnel%20Screenshot.png)
+
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Ecommerce%20Business%20Analytics/Ecommerce%20Retension%20Rates%20Screenshot.png)
 
 - Complete Project (Google Sheet Doc): <a href='https://docs.google.com/spreadsheets/d/180Q3sWSKGBXhjlHS2azM_mDaYg1iJjP-ujVu_l5TpD4/edit?gid=38637670#gid=38637670' target=_blank><u>here</u>.</a>
