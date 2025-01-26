@@ -19,7 +19,8 @@ __Advertising Spend Focus on States Worksheet__
 
 ## Files
 - README.md
-- Raw Data: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Operations%20Analysis/Superstore%20Raw%20Data%20Link.xls' target=_blank><u>Raw data link </u></a>
+- Raw Data: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Operations%20Analysis/Superstore%20Raw%20Data%20Link.xls' target=_blank><u>Here</u></a>
+
 - Project Requirements: 
 - Reviewer Comments: 
 - Project Rubric:
