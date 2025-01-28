@@ -3,19 +3,11 @@
 ## Project Overview
 Prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
 
-Dashboard: Understanding Returns by Product Categories Over Time
-
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20by%20Product%20Categories%20Over%20Time%20Dashboard%20Screenshot.png)
-
-Dashboard: Understanding Return Rate by Category & Region/State
 
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20by%20Category%20and%20Region%20State%20Dashboard%20Screenshot.png)
 
-Root Causes of Returns
-
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20Summary%20Screenshot.png)
-
-Recommendations
 
 ![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20Recc%20Screenshot.png)
 
