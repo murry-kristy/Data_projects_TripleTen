@@ -3,21 +3,31 @@
 ## Project Overview
 Prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
 
-Image links
 Dashboard: Understanding Returns by Product Categories Over Time
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20by%20Product%20Categories%20Over%20Time%20Dashboard%20Screenshot.png)
+
 Dashboard: Understanding Return Rate by Category & Region/State
-Root Causes of Returns: 
-Recommendations: 
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20by%20Category%20and%20Region%20State%20Dashboard%20Screenshot.png)
+
+Root Causes of Returns
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20Summary%20Screenshot.png)
+
+Recommendations
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20Recc%20Screenshot.png)
 
 Tableau Public Share Link: <a href='https://public.tableau.com/views/KristyMurrySprint5Project1/SuperstoreReturnsPresentation?:language=en-US&:sid=06DA54D870624B109B37BD9A96C60DD1-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ## Files
 - README.md
-- Raw Data: 
-- Project presentation:
-- Project Requirements:
-- Reviewer Comments: 
-- Project Rubric:
+- Raw Data: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Project%205%20Data.xls' target=_blank><u>here</u>.</a>
+- Project Presentation: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Returns%20Presentation.pdf' target=_blank><u>here</u>.</a>
+- Project Requirements: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/README%20Superstore%20Returns%20Project%20Requirements.md' target=_blank><u>here</u>.</a>
+- Project Rubric: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Sprint%205%20Project%20Rubric.pdf' target=_blank><u>here</u>.</a>
+- Reviewer Comments: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Reviewer%20Comments%20Superstore%20Returns%20.png' target=_blank><u>here</u>.</a>
 
 ## Table of Contents
 | Tab Title| Description | 
