@@ -36,7 +36,7 @@ Tableau Public Share Link: <a href='https://public.tableau.com/views/KristyMurry
 - Includes data analysis, charts, dashboard, and Tableau story.
 
 ## Data
-1. Excel spreadsheet: Add link
+1. Excel spreadsheet: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Superstore%20Returns%20Analysis/Superstore%20Project%205%20Data.xls' target=_blank><u>here</u>.</a>
 - - `'Superstore.xls'`: each row corresponds to one product sold; sheets were LEFT JOIN'd
     - `'orders'`: details all fields for each ordered item
     - `'returns'`: details all fields for each returned item
