@@ -24,7 +24,6 @@ Reviewed the landscape of apps on the Shopify platform, using data scraped from 
 | Assumptions | List of assumptions regarding the provided dataset made based on the task objectives and data. |
 | Process | General outline of the steps taken during the analysis. |
 | Findings | Insights gathered after the data analysis. |
-| Recommendations | Recommendations based on the data analysis. |
 
 ## Description
 - 3 Power BI Dashboards.
