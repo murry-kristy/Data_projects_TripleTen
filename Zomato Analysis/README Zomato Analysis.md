@@ -9,10 +9,10 @@
   - Identify and profile Zomato's customer segments based on demographics (gender, age, monthly income, occupation) and spending behaviors to enhance target marketing efficiency.
 
 - BUSINESS QUESTIONS:
-  1. What is the demographic distribution (gender, age, monthly income, occupation) of Zomato’s customer base? 
-  2. How do spending behaviors differ among customers? 
-  3. What are the different customer segments based on recency, frequency, and monetary value?
-  4. What marketing strategies could Zomato implement in targeting specific customer segments to retain customers and increase sales? 
+1. What is the demographic distribution (gender, age, monthly income, occupation) of Zomato’s customer base? 
+2. How do spending behaviors differ among customers? 
+3. What are the different customer segments based on recency, frequency, and monetary value?
+4. What marketing strategies could Zomato implement in targeting specific customer segments to retain customers and increase sales? 
 
 Image links
 Dashboard 1: Demographic Overview
