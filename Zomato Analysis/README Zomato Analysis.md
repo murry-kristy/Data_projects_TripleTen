@@ -18,17 +18,19 @@ Identify and profile Zomato's customer segments based on demographics (gender, a
 <image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Customer%20Segment%20RFM%20Dashboard.png'>
 <image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/RFM%20Demographics%20Dashboard.png'>
 
-Tableau Share Link: <a href='https://public.tableau.com/shared/F7BMZYPJF?:display_count=n&:origin=viz_share_link' 
+Tableau Share Link: <a href='https://public.tableau.com/shared/F7BMZYPJF?:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
 ## Files
 - README.md
-- Raw Data: 
-- Project Requirements:
-- Project Report:
-- Reviewer Comments: 
-- Models:
-- RFM Table:
-- Segment Scores Table:
+- Raw Data:
+  - Orders Table: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Orders%201.csv' target=_blank><u>here</u>.</a>
+  - Users Table: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Users%202.csv' target=_blank><u>here</u>.</a>
+  - Segment Table: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Segment%20Table.xlsx' target=_blank><u>here</u>.</a>
+  - RFM Table: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/RFM%20Table.xlsx' target=_blank><u>here</u>.</a>
+- Project Requirements: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Analysis%20Project%20Reqs.md' target=_blank><u>here</u>.</a>
+- Project Report:<a href='https:https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Final%20Project%20Presentation%20by%20Kristy%20Murry.pdf' target=_blank><u>here</u>.</a>
+- Reviewer Comments: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Reviewer%20Comments.png' target=_blank><u>here</u>.</a>
+- Models: <a href='://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Models.png' target=_blank><u>here</u>.</a>
 
 ## Table of Contents
 | Tab Title| Description | 
