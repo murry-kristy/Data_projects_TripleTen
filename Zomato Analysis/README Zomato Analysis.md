@@ -15,12 +15,8 @@ Identify and profile Zomato's customer segments based on demographics (gender, a
 4. What marketing strategies could Zomato implement in targeting specific customer segments to retain customers and increase sales? 
 
 <image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Demographics%20Dashboard.png'>
-
-
-
-Dashboard 1: Demographic Overview
-Dashboard 2: RFM 
-Dashboard 3: RFM & Demographics
+<image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Customer%20Segment%20RFM%20Dashboard.png'>
+<image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/RFM%20Demographics%20Dashboard.png'>
 
 Tableau Share Link: 
 
