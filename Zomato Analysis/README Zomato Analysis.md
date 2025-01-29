@@ -3,10 +3,10 @@
 ## Project Overview
 
 - BUSINESS DESCRIPTION:
-  - Zomato is a multinational restaurant aggregator company.
+Zomato is a multinational restaurant aggregator company.
 
 - BUSINESS OBJECTIVE:
-  - Identify and profile Zomato's customer segments based on demographics (gender, age, monthly income, occupation) and spending behaviors to enhance target marketing efficiency.
+Identify and profile Zomato's customer segments based on demographics (gender, age, monthly income, occupation) and spending behaviors to enhance target marketing efficiency.
 
 - BUSINESS QUESTIONS:
 1. What is the demographic distribution (gender, age, monthly income, occupation) of Zomato’s customer base? 
@@ -14,7 +14,10 @@
 3. What are the different customer segments based on recency, frequency, and monetary value?
 4. What marketing strategies could Zomato implement in targeting specific customer segments to retain customers and increase sales? 
 
-Image links
+<image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Demographics%20Dashboard.png'>
+
+
+
 Dashboard 1: Demographic Overview
 Dashboard 2: RFM 
 Dashboard 3: RFM & Demographics
