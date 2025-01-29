@@ -3,17 +3,18 @@
 ## Project Overview
 Reviewed the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figured out what key factors played into the success of a Shopify app.
 
-Image links
-Dashboard 1: Shopify App Landscape ![image](
-Dashboard 2: Shopify Reviews
-Dashboard 3: Shopify App Reviews
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Shopidy%20Dashboard%201%20Landscape.png)
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Shopidy%20Dashboard%202%20Reviews.png)
+
+![image](https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Shopidy%20Dashboard%203%20App%20Reviews.png)
 
 ## Files
 - README.md
-- Raw Data: 
-- Project Requirements:
-- Project Summary:
-- Reviewer Comments: 
+- Raw Data: <a href='https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/shopify.xlsx' target=_blank><u>here</u></a>
+- Project Requirements: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Shopify%20App%20Analysis%20Project%20Reqs.md' target=_blank><u>here</u></a>
+- Project Summary: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/shopify%20App%20Analysis%20Summary.pdf' target=_blank><u>here</u></a>
+- Reviewer Comments: <a href='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Reviewer%20Comments%20Shopify%20App.png' target=_blank><u>here</u></a>
 
 ## Table of Contents
 | Tab Title| Description | 
@@ -30,7 +31,7 @@ Dashboard 3: Shopify App Reviews
 - Includes data analysis, KPI cards, and charts.
 
 ## Data
-The Excel file provided by TripleTenwas was public data scraped from the Shopify App Store.
+The Excel file provided by TripleTenwas was public data scraped from the Shopify App Store. <a href='https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/shopify.xlsx' target=_blank><u>here</u></a>
 1. `'shopify.xlsx'`: Excel Workbook containing 4 sheets:
     - `'apps'`: Details of the apps on the Shopify apps marketplace
     - `'apps_categories'`: Join tables to connect apps with categories
