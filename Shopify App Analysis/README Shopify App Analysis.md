@@ -4,7 +4,7 @@
 Reviewed the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figured out what key factors played into the success of a Shopify app.
 
 Image links
-Dashboard 1: Shopify App Landscape
+Dashboard 1: Shopify App Landscape ![image](
 Dashboard 2: Shopify Reviews
 Dashboard 3: Shopify App Reviews
 
