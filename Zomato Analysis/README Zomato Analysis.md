@@ -43,9 +43,9 @@ Tableau Share Link: <a href='https://public.tableau.com/shared/F7BMZYPJF?:displa
 | Recommendations | Recommendations based on the data analysis. |
 
 ## Description
-- This was a Customer Segmentation Analysis.
-  1. Explored the demographic and sales data in the User and Orders tables to create Tableau visualizations identifying customers' spending behaviors based on gender, age, monthly, income, and occupation.
-  2. Examined customer order data in the Orders table and created 2 Power BI visualizations identifying customer segments based on recency, frequency, monetary analysis, and demographics. 
+This was a Customer Segmentation Analysis.
+1. Explored the demographic and sales data in the User and Orders tables to create Tableau visualizations identifying customers' spending behaviors based on gender, age, monthly, income, and occupation.
+2. Examined customer order data in the Orders table and created 2 Power BI visualizations identifying customer segments based on recency, frequency, monetary analysis, and demographics. 
 
 ## Data
 TripleTen provided an archived file of 5 separate Excel files from the mock company Zomato. I used 2.
