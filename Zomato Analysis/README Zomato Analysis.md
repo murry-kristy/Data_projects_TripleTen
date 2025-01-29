@@ -18,7 +18,7 @@ Identify and profile Zomato's customer segments based on demographics (gender, a
 <image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/Customer%20Segment%20RFM%20Dashboard.png'>
 <image src='https://github.com/murry-kristy/Data_projects_TripleTen/blob/main/Zomato%20Analysis/RFM%20Demographics%20Dashboard.png'>
 
-Tableau Share Link: 
+Tableau Share Link: <a href='https://public.tableau.com/shared/F7BMZYPJF?:display_count=n&:origin=viz_share_link' 
 
 ## Files
 - README.md
