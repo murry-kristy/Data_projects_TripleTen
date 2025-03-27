@@ -1,4 +1,4 @@
-# Data_projects_TripleTen
+# Data Projects
 Technical projects completed during TripleTen Business Intelligence Analyst Bootcamp.
 
 
